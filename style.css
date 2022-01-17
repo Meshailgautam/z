@@ -1,0 +1,20 @@
+#body{
+    text-align:center;
+}
+#footer{
+    color:black;
+    line-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    bottom:0;
+    position:fixed;
+}
+#bottle_test{
+    box-shadow:5px 5px 5px grey;
+}
+#bed_test{
+    box-shadow:5px 5px 5px grey;
+}
+#head_phones_test{
+    box-shadow:5px 5px 5px grey;
+}
